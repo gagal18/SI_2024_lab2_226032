@@ -83,7 +83,7 @@ public class SILab2 {
                 sum -= 30;
             }
         }
-        
+
         if (sum <= payment){
             return true;
         }
